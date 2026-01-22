@@ -25,5 +25,4 @@ The project is deployed on GitHub.
 Future improvements include PIN security and transaction logging.
 
 Author:
-Jeremaih Imoleayo
-
+Imoleayo
